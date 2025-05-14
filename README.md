@@ -5,5 +5,5 @@ Gravação da apresentação: [**YouTube**](https://www.youtube.com/watch?v=E-QW
 
 ---
 
-Artigos que produzi sobre o uso do Grafana com o Microsoft Azure:
+Artigos que produzi sobre o uso do Grafana com o Microsoft Azure e que foram publicados no blog AzureBrasil.cloud:
 - [Por que utilizar o Grafana no monitoramento de recursos do Azure?](https://www.azurebrasil.cloud/grafana-monitoramento-azure/)
