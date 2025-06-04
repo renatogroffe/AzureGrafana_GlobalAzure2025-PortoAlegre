@@ -1,5 +1,5 @@
 # AzureGrafana_GlobalAzure2025-PortoAlegre
-Conteúdos de apresentação sobre Azure Managed Grafana.
+Conteúdos de apresentação sobre Azure Managed Grafana realizada em 10/05/2025, durante a edição 2025 do Global Azure em Porto Alegre-RS.
 
 ---
 
