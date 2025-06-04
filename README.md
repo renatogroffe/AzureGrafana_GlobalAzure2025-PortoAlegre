@@ -15,4 +15,12 @@ Título da apresentação: **Azure Managed Grafana: monitoramento na nuvem com e
 
 Data: **10/05/2025 (sábado)**
 
-Gravação da apresentação: [**YouTube**](https://www.youtube.com/watch?v=E-QWOA0vS0Y)
+Gravação da apresentação: [**YouTube**](https://www.youtube.com/watch?v=K83iVaYxYn8)
+
+![Renato palestrando 1](img/graf-15.png)
+
+![Renato palestrando 2](img/graf-20.png)
+
+![Renato palestrando 3](img/graf-01.png)
+
+![Renato palestrando 2](img/graf-02.png)
