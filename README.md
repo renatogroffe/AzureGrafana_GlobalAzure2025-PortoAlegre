@@ -21,6 +21,8 @@ Número de participantes: **35 pessoas**
 
 Gravação da apresentação: [**YouTube**](https://www.youtube.com/watch?v=K83iVaYxYn8)
 
+---
+
 ![Renato palestrando 1](img/graf-15.png)
 
 ![Renato palestrando 2](img/graf-20.png)
