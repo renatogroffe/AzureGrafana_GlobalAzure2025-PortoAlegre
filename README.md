@@ -15,6 +15,10 @@ Título da apresentação: **Azure Managed Grafana: monitoramento na nuvem com e
 
 Data: **10/05/2025 (sábado)**
 
+Tecnologias e tópicos abordados: **Grafana, Azure Managed Grafana, Azure Kubernetes Service, Prometheus, Kubernetes, Docker, Azure Storage, Azure API Management, Azure Monitor, Application Insights, Log Analytics, Linux, Azure VMs, Cloud Native, Observabilidade, DevOps...**
+
+Número de participantes: **35 pessoas**
+
 Gravação da apresentação: [**YouTube**](https://www.youtube.com/watch?v=K83iVaYxYn8)
 
 ![Renato palestrando 1](img/graf-15.png)
