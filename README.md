@@ -25,6 +25,6 @@ Gravação da apresentação: [**YouTube**](https://www.youtube.com/watch?v=K83i
 
 ![Renato palestrando 2](img/graf-20.png)
 
-![Renato palestrando 3](img/graf-01.png)
+![Renato palestrando 3](img/graf-02.png)
 
-![Renato palestrando 2](img/graf-02.png)
+![Público](img/graf-01.png)
