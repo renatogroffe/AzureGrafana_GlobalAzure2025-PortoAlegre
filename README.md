@@ -19,7 +19,16 @@ Tecnologias e tópicos abordados: **Grafana, Azure Managed Grafana, Azure Kubern
 
 Número de participantes: **35 pessoas**
 
+Alguns links sobre o evento:
+- https://www.linkedin.com/posts/digomatos_globalazure-globalazurebootcamp-azure-activity-7321892488900763648-Dhtm
+- https://www.linkedin.com/posts/lissandra-galhardi_globalazure-globalazurebootcamp-azure-activity-7327696978899832833-EpH1/
+- https://www.sympla.com.br/evento/global-azure-bootcamp-2025-porto-alegre/2929496
+
+Local: **Avenida Ipiranga, 6681 - Partenon - Porto Alegre - RS - CEP: 90619-900**
+
 Gravação da apresentação: [**YouTube**](https://www.youtube.com/watch?v=K83iVaYxYn8)
+
+Deixo aqui meus agradecimentos aos meus amigos **Diego Matos (Microsoft MVP)** e ao **Rafael Felipe (Microsoft MVP)** por todo o apoio para que eu partipasse como palestrante, mesmo que online, esta edição do **Global Azure** em **Porto Alegre-RS**.
 
 ---
 
